@@ -1,0 +1,4 @@
+{
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/e8f5c37f-a670-4b67-af88-3bf30d363154/resourceGroups/PraiseWebApp/providers/Microsoft.Web/sites/PraiseWebApp"
+}
